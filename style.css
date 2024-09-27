@@ -71,3 +71,19 @@ h1 span:nth-child(6)
 {
     animation-delay: 3.2s;
 }
+h1 span:nth-child(7)
+{
+    animation-delay: 3.6s;
+}
+h1 span:nth-child(8)
+{
+    animation-delay: 4.1s;
+}
+h1 span:nth-child(9)
+{
+    animation-delay: 4.5s;
+}
+h1 span:nth-child(10)
+{
+    animation-delay: 4.9s;
+}
